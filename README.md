@@ -7,3 +7,5 @@ I wanted to use the linear algebra of a neural network and implement it on my ow
 test.csv contains the testing data. 
 train.csv contains the training data. 
 submission.csv contains my predicted answer for each one of the test images. This csv was checked on kaggle for accuracy. 
+
+Update: the training and testing data are too large to upload on git. They can be found on this website: https://www.kaggle.com/competitions/digit-recognizer 
